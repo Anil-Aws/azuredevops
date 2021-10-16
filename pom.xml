@@ -17,12 +17,12 @@
   <distributionManagement>
 
 		<repository>
-			<id>package1</id>
-			<url>http://3.15.40.94:8081/repository/package1//</url>
+			<id>package5</id>
+			<url>http://3.139.55.170:8081/repository/package5//</url>
 		</repository>
 		<snapshotRepository>
-			<id>snashots1</id>
-			<url>http://3.15.40.94:8081/repository/snapshots1/</url>
+			<id>snashots5</id>
+			<url>http://3.139.55.170:8081/repository/snapshots5//</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
