@@ -18,7 +18,7 @@
 
 		<repository>
 			<id>package2</id>
-			<urlhttp://3.16.25.139:8081/repository/package2//</url>
+			<url>http://3.16.25.139:8081/repository/package2//</url>
 		</repository>
 		<snapshotRepository>
 			<id>snashots2</id>
